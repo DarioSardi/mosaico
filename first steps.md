@@ -16,7 +16,8 @@ CREATE TABLE PROFESSORI (
 ); 
 ```
 
-# sqlcmd
+# sqlcmd 
+link:https://docs.microsoft.com/it-it/sql/linux/sql-server-linux-setup-tools?view=sql-server-ver15#ubuntu
 connessione tramite sqlcmd e elenco delle tabelle nel db Test tramite comando 
 
 ```sql
@@ -27,3 +28,4 @@ GO
 dopo l'installazione no func sql.
 aggiunte linee a .zshrc.
 avvio pyspark!
+dopo 30 anni e 15 giorni... uso odbc
