@@ -1,0 +1,17 @@
+{  
+   "@context": "http://donnowhatisit.org",  
+   "@type": "Agreement",  
+    "uid": "mosaico.database.windows.net/Test:policy:1",  
+    "permission": [{  
+        "target": "mosaico.database.windows.net/Test:STUDENTI",  
+        "assignee": "mosaico.database.windows.net/Test:user:Tester",  
+        "action": "read"},
+	{
+	"target": "mosaico.database.windows.net/Test:DOCENTI:NOME",  
+        "assignee": "mosaico.database.windows.net/Test:user:Tester",  
+        "action": "read"}
+
+
+
+	]
+}
