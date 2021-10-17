@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Aug 20 17:24:50 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-017b-642a-2c1a-000019644388 
+on database directory /home/mosaico/Documents/mosaico/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@193aa8aa 
+Loaded from file:/opt/spark/spark-3.1.2-bin-hadoop3.2/jars/derby-10.12.1.1.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_292-8u292-b10-0ubuntu1~20.04-b10
+user.dir=/home/mosaico/Documents/mosaico
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-80-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

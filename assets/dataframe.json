@@ -1,4 +1,3 @@
-{"STUDENTI":
-        {"0":"Desktop Computer","1":"Tablet","2":"iPhone","3":"Laptop"},
-        "Price":{"0":700,"1":250,"2":800,"3":1200}
-    }
+{"some":"thing"}
+{"foo":17,"bar":false,"quux":true}
+{"may":{"include":"nested","objects":["and","arrays"]}}
