@@ -19,7 +19,7 @@ database = "Test"
 ser="mosaico.database.windows.net:1433"
 table = "dbo.DOCENTI"
 user = "PanDario"
-password = ""
+password = "Ciaomare.77"
 
 jdbcDF = spark.read.format("jdbc") \
     .option("url", "jdbc:sqlserver://mosaico.database.windows.net:1433/Test")\
