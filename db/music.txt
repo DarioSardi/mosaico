@@ -1,0 +1,15 @@
+music/PurpleRain.mp3
+music/1999.mp3
+music/HellsBells.mp3
+music/JailhouseRock.mp3 
+music/TheRoadCrew.mp3
+music/MoonlightDrive.mp3
+music/Waffle.mp3
+music/WhereTheEaglesDare.mp3
+music/LondonCalling.mp3
+newMusic/Thunder.mp3
+newMusic/LastDayOnEarth.mp3
+newMusic/Champion.mp3
+newMusic/WorldAtOurFeet.mp3
+newMusic/HowFarIllGo.mp3
+newMusic/Sunny.mp3
