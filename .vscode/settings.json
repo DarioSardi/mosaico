@@ -1,5 +1,5 @@
 {
     "python.pythonPath": "/usr/bin/python3",
-    "jupyter.jupyterServerType": "local",
+    "jupyter.jupyterServerType": "remote",
     "code-runner.runInTerminal": true
 }
