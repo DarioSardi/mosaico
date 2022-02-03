@@ -1,7 +1,2 @@
-people/billie
-people/joe
-people/danny
-people/alex
-org/sony-music
-org/virgin-records
-org/UMPG
+http://example2.com
+books/TheOldManandtheSea.epub
