@@ -3,6 +3,7 @@
     "@type": "Policy",
     "uid": "http://example.com/policy:8888",
     "profile": "http://example.com/odrl:profile:20",
+    "conflict": "prohibit",
     "permission": [{
         "target": "http://example.com/music/1999.mp3",
         "assignee": "http://example.com/people/billie",
@@ -38,5 +39,19 @@
         "assignee": "http://example.com/people/billie",
         "assigner": "http://example.com/org/sony-music",
         "action": "stream"
-    }]
+    }],
+    "prohibition": [{
+        "target": "http://example.com/music/PurpleRain.mp3",
+        "assignee": "http://example.com/people/danny",
+        "assigner": "http://example.com/org/sony-music",
+        "action": "play"
+    },
+    {
+        "target": "http://example.com/photoAlbum1:55",
+        "assignee": "http://example.com/assignee:55",
+        "assigner": "http://example.com/MyPix:55",
+        "action": "archive"
+    }
+    
+    ]
 }
