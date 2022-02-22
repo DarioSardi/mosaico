@@ -1,0 +1,58 @@
+{
+    "@context": "http://www.w3.org/ns/odrl.jsonld",
+    "@type": "Policy",
+    "uid": "http://example.com/policy:8888",
+    "profile": "http://example.com/odrl:profile:20",
+    "conflict": "prohibit",
+    "permission": [
+        
+    {
+        "target": "http://bibliockick.it/ernestHemingway/IlVecchioEIlMare.epub",
+        "assignee": "http://example.com/people/Simone",
+        "assigner": "http://example.com/org/hoepli",
+        "action": "read"
+    },
+    {
+        "target": "http://bibliockick.it/ValerioMassimoManfredi/LoScudoDiTalos.epub",
+        "assignee": "http://example.com/people/Simone",
+        "assigner": "http://example.com/org/hoepli",
+        "action": "read"
+    },   
+    {
+        "target": "http://bibliockick.it/ValerioMassimoManfredi/Alexandros.epub",
+        "assignee": "http://example.com/people/Simone",
+        "assigner": "http://example.com/org/hoepli",
+        "action": "read"
+    },   
+    {
+        "target": "http://bibliockick.it/ValerioMassimoManfredi/LUltimaLegione.epub",
+        "assignee": "http://example.com/people/Simone",
+        "assigner": "http://example.com/org/hoepli",
+        "action": "read"
+    },   
+    {
+        "target": "http://bibliockick.it/ChristopherPaolini/Eragon.epub",
+        "assignee": "http://example.com/people/Simone",
+        "assigner": "http://example.com/org/hoepli",
+        "action": "read"
+    },   
+    {
+        "target": "http://bibliockick.it/ChristopherPaolini/Eldest.epub",
+        "assignee": "http://example.com/people/Simone",
+        "assigner": "http://example.com/org/hoepli",
+        "action": "read"
+    },   
+    {
+        "target": "http://bibliockick.it/ChristopherPaolini/Brisingr.epub",
+        "assignee": "http://example.com/people/Simone1",
+        "assigner": "http://example.com/org/hoepli",
+        "action": "read"
+    },   
+    {
+        "target": "http://bibliockick.it/ernestHemingway/IlVecchioEIlMare.epub",
+        "assignee": "http://example.com/people/Simone",
+        "assigner": "http://example.com/org/hoepli",
+        "action": "read"
+    }
+    ]
+}
