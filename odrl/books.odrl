@@ -7,49 +7,49 @@
     "permission": [
         
     {
-        "target": "http://bibliockick.it/ernestHemingway/IlVecchioEIlMare.epub",
+        "target": "http://biblioclick.it/ernestHemingway/IlVecchioEIlMare.epub",
         "assignee": "http://example.com/people/Simone",
         "assigner": "http://example.com/org/hoepli",
         "action": "read"
     },
     {
-        "target": "http://bibliockick.it/ValerioMassimoManfredi/LoScudoDiTalos.epub",
+        "target": "http://biblioclick.it/ValerioMassimoManfredi/LoScudoDiTalos.epub",
         "assignee": "http://example.com/people/Simone",
         "assigner": "http://example.com/org/hoepli",
         "action": "read"
     },   
     {
-        "target": "http://bibliockick.it/ValerioMassimoManfredi/Alexandros.epub",
+        "target": "http://biblioclick.it/ValerioMassimoManfredi/Alexandros.epub",
         "assignee": "http://example.com/people/Simone",
         "assigner": "http://example.com/org/hoepli",
         "action": "read"
     },   
     {
-        "target": "http://bibliockick.it/ValerioMassimoManfredi/LUltimaLegione.epub",
+        "target": "http://biblioclick.it/ValerioMassimoManfredi/LUltimaLegione.epub",
         "assignee": "http://example.com/people/Simone",
         "assigner": "http://example.com/org/hoepli",
         "action": "read"
     },   
     {
-        "target": "http://bibliockick.it/ChristopherPaolini/Eragon.epub",
+        "target": "http://biblioclick.it/ChristopherPaolini/Eragon.epub",
         "assignee": "http://example.com/people/Simone",
         "assigner": "http://example.com/org/hoepli",
         "action": "read"
     },   
     {
-        "target": "http://bibliockick.it/ChristopherPaolini/Eldest.epub",
+        "target": "http://biblioclick.it/ChristopherPaolini/Eldest.epub",
         "assignee": "http://example.com/people/Simone",
         "assigner": "http://example.com/org/hoepli",
         "action": "read"
     },   
     {
-        "target": "http://bibliockick.it/ChristopherPaolini/Brisingr.epub",
+        "target": "http://biblioclick.it/ChristopherPaolini/Brisingr.epub",
         "assignee": "http://example.com/people/Simone1",
         "assigner": "http://example.com/org/hoepli",
         "action": "read"
     },   
     {
-        "target": "http://bibliockick.it/ernestHemingway/IlVecchioEIlMare.epub",
+        "target": "http://biblioclick.it/ernestHemingway/IlVecchioEIlMare.epub",
         "assignee": "http://example.com/people/Simone",
         "assigner": "http://example.com/org/hoepli",
         "action": "read"
